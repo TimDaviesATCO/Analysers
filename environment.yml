@@ -1,4 +1,4 @@
-name: SAP_Data_Cleaners
+name: Analysers
 
 channels:
   # Conda forge - gives us lots of community-built Python packages, see https://conda-forge.org/ for details
